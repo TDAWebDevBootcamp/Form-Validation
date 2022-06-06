@@ -1,4 +1,4 @@
-# Week 3 Form Validation
+# Form Validation
 
 Code examples for Form Validation session
 
