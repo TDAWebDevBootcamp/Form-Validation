@@ -13,3 +13,4 @@ Code examples for Form Validation session
 1. setFormat.html - example of completed set formatting task.
 1. setFocus.html - example of completed set focus task.
 
+Copyright (c) 2022 The Developer Academy Ltd
